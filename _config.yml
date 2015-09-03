@@ -1,0 +1,11 @@
+# Site settings
+title: GSrpc Home
+email: gsrpc@domain.com
+description: GSrpc :结合代码生成技术实现的一种高效/支持多种编程语言的远程服务调用框架
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: gsrpc
+github_username:  gsrpc
+
+# Build settings
+markdown: kramdown
