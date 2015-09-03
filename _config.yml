@@ -6,6 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: gsrpc
 github_username:  gsrpc
-
+pygments: true
 # Build settings
 markdown: kramdown
